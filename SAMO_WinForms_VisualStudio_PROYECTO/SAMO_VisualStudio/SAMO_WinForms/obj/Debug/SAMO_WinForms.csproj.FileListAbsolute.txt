@@ -1,0 +1,7 @@
+C:\Users\csand\Downloads\SAMO_WinForms_VisualStudio_PROYECTO\SAMO_VisualStudio\SAMO_WinForms\bin\Debug\SAMO_WinForms.exe.config
+C:\Users\csand\Downloads\SAMO_WinForms_VisualStudio_PROYECTO\SAMO_VisualStudio\SAMO_WinForms\bin\Debug\SAMO_WinForms.exe
+C:\Users\csand\Downloads\SAMO_WinForms_VisualStudio_PROYECTO\SAMO_VisualStudio\SAMO_WinForms\bin\Debug\SAMO_WinForms.pdb
+C:\Users\csand\Downloads\SAMO_WinForms_VisualStudio_PROYECTO\SAMO_VisualStudio\SAMO_WinForms\obj\Debug\SAMO_WinForms.csproj.AssemblyReference.cache
+C:\Users\csand\Downloads\SAMO_WinForms_VisualStudio_PROYECTO\SAMO_VisualStudio\SAMO_WinForms\obj\Debug\SAMO_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\csand\Downloads\SAMO_WinForms_VisualStudio_PROYECTO\SAMO_VisualStudio\SAMO_WinForms\obj\Debug\SAMO_WinForms.exe
+C:\Users\csand\Downloads\SAMO_WinForms_VisualStudio_PROYECTO\SAMO_VisualStudio\SAMO_WinForms\obj\Debug\SAMO_WinForms.pdb

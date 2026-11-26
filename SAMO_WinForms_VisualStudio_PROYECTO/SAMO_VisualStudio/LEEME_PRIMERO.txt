@@ -1,0 +1,29 @@
+SAMO - PROYECTO WINDOWS FORMS PARA VISUAL STUDIO
+
+ESTRUCTURA
+- SAMO_WinForms.sln: solución para abrir en Visual Studio.
+- SAMO_WinForms/SAMO_WinForms.csproj: proyecto C# Windows Forms .NET Framework 4.8.
+- Program.cs: punto de entrada.
+- MainForm.cs: interfaz y eventos.
+- Database.cs: acceso a SQL Server.
+- App.config: configuración de conexión.
+
+COMO ABRIR
+1. Extrae TODO el contenido del ZIP en una carpeta normal.
+2. Abre Visual Studio 2022.
+3. Selecciona Archivo > Abrir > Proyecto o solución.
+4. Selecciona SAMO_WinForms.sln (no abras el .cs individual).
+5. Espera a que cargue el proyecto y presiona F5.
+
+REQUISITOS
+- Visual Studio 2022 con la carga de trabajo Desarrollo de escritorio de .NET.
+- .NET Framework 4.8 Developer Pack/Targeting Pack.
+- SQL Server y las bases Taller_Automotriz y Refaccionaria creadas.
+
+CONEXION
+Antes de ejecutar, abre SAMO_WinForms/App.config y cambia Server al nombre de tu instancia SQL Server.
+Si usas autenticación de Windows, deja TrustedConnection=true.
+Si usas usuario SQL, configura TrustedConnection=false, User y Password.
+
+NOTA
+La interfaz se construye desde código en MainForm.cs, por lo que puedes editar controles y eventos directamente ahí. Este proyecto no depende de Python.
